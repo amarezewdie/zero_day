@@ -1,1 +1,1 @@
-vagrant optional
+vagrant
